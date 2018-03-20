@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spocosy version="1.0">
+	<liveevents id="849851" ut="2018-02-19" sport="Football" template="Superleague" tournament="2017/2018" league="Superligaen">
+		<liveevent id="2511343" name="AGF-SoenderjyskE" date="2018-02-19 19:00:00" round="21" status="Finished" gamestarted="2018-02-19 19:04:13" secondhalfstarted="2018-02-19 20:08:28">
+			<results participantid="8071" participantname="AGF">
+				<result id="30882442" type="finalresult" value="0"/>
+				<result id="30882230" type="halftime" value="0"/>
+				<result id="27754199" type="ordinarytime" value="0"/>
+				<result id="27754201" type="runningscore" value="0"/>
+			</results>
+			<results participantid="8487" participantname="SoenderjyskE">
+				<result id="30882443" type="finalresult" value="0"/>
+				<result id="30882231" type="halftime" value="0"/>
+				<result id="27754200" type="ordinarytime" value="0"/>
+				<result id="27754202" type="runningscore" value="0"/>
+			</results>
+			<incidents participantid="8071" participantname="AGF">
+				<incident id="5416036" type="Yellow card" playerid="120560" player="Tobias Sana" elapsed="17" incident_typeFK="14"/>
+				<incident id="5416075" type="Yellow card" playerid="36456" player="Pierre Kanstrup" elapsed="43" incident_typeFK="14"/>
+				<incident id="5416165" type="Yellow card" playerid="437889" player="Kasper Junker" elapsed="90" incident_typeFK="14"/>
+			</incidents>
+			<incidents participantid="8487" participantname="SoenderjyskE">
+				<incident id="5416037" type="Yellow card" playerid="860919" player="Victor Ekani" elapsed="17" incident_typeFK="14"/>
+				<incident id="5416166" type="Yellow card" playerid="42596" player="Kees Luijckx" elapsed="90" incident_typeFK="14"/>
+			</incidents>
+		</liveevent>
+	</liveevents>
+</spocosy>

@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Realm" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Model">
+      <HintPath>..\..\..\Xamarin\fodboldapp\FodboldApp\Model\bin\Debug\netcoreapp2.0\Model.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
